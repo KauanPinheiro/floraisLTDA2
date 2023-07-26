@@ -1,0 +1,35 @@
+
+
+
+
+
+main{
+    background-color: #BA704F
+}
+h1{
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: rgba(188, 143, 143, 0.819);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h2{
+    text-align: center;
+}
+#carouselhome{
+    margin-top: 120px;
+    padding-left: 250px;
+    padding-right: 250px;
+
+}
+#slides{
+    max-height: 500px;
+    overflow: hidden;
+}
+.carousel-item img{
+    height: 5%;  
+    width: 5%;  
+    position:relative;
+    top:.5;
+}
